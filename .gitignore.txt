@@ -1,0 +1,27 @@
+# Ignore Python virtual environment
+     venv/
+
+     # Ignore Node.js modules
+     frontend/node_modules/
+
+     # Ignore compiled React files
+     frontend/build/
+
+     # Ignore SQLite database file
+     db.sqlite3
+
+     # Ignore environment variables file
+     .env
+
+     # Ignore staticfiles and media files
+     backend/staticfiles/
+     backend/media/
+
+     # Ignore logs and temporary files
+     *.log
+     *.tmp
+
+     # Ignore IDE/editor files
+     .vscode/
+     .idea/
+     ```
